@@ -1,0 +1,62 @@
+.background{
+  background-color: burlywood;
+}
+
+
+input[type=text] , select {
+    width: 60%;
+    display:inline-block;
+    position:relative;
+    padding: 12px 15px;
+    margin: 8px 20%;
+    box-sizing: border-box;
+    border-color: green;
+    border-width: 3px;
+    background-color: whitesmoke;
+    font-size: larger;
+  }
+input[type=date] {
+    width: 70%;
+    padding: 12px 70px;
+    margin: 8px 15%;
+    box-sizing: border-box;
+    font-size: 2rem;
+    text-align: center;
+    border-color: green;
+    border-width: 3px;
+    background-color: whitesmoke;
+  }
+textarea[type=text] {
+ 
+  width: 70%;
+    padding: 12px 15px;
+    margin: 8px 15%;
+    box-sizing: border-box;
+    font-size: larger;
+    border-color: green;
+    border-width: 3px;
+    background-color: whitesmoke;
+    resize:none;
+  }
+  .textCentered{
+    display: block;
+    text-align: center;
+    padding-top: 15px;
+    
+    
+  }
+
+  .form{
+    background-color: burlywood;
+  }
+
+  button{
+  
+    background-color: green; /* Green */
+    color: white;
+    padding: 15px 32px;
+    margin-left: .8rem;
+    text-align: center;
+    display: inline-block; 
+    font-size: 16px;
+  }
